@@ -1,4 +1,5 @@
 a=1
 c=2
 d=2
-print(a+c-d)
+e=5
+print(a+c-d+e)
